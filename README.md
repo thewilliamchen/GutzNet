@@ -1,6 +1,6 @@
 # GutzNet
 Loopholes found in Gutzkowstraße/Reichenbachstraße Studentenwerk network accounting.
-# Summary
+
 
 ## Motivation
 Back in October 2015, when I was applying to the BU-TUD abroad program, I knew about the dorm that we students would be living in and about limitations to the Internet access with a 21 GB cap. Being one who tends to consume a lot of data (not even Netflix/video, to be honest), I figured that I would be able to obtain an external internet provider via Vodafone or 1&1 DSL, pay the 15-20€/mo tariff, and get decent (50/10Mbps, which is good even though at home I pull 180/10 and gigabit at BU) internet without traffic limits. 
